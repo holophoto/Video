@@ -17,4 +17,4 @@ This repository stores the visualization video resources corresponding to the ar
 - Click on the video file directly and select the `Download` button to save it to your local device.
 - Batch Download: Clone this repository to get all videos (Recommended)
   ```bash
-  git clone https://github.com/your-username/repository-name.git
+  git clone https://github.com/holophoto/video.git
