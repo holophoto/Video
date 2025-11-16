@@ -5,12 +5,16 @@
 This repository stores the visualization video resources corresponding to the article **[Dielectric elastomer-based laser pointing control system for UV to NIR laser]**. These videos are designed to intuitively present key content such as core data trends, algorithm operation processes, and experimental result comparisons in the research. They assist readers in understanding the visualization analysis logic and conclusions presented in the article.
 
 ## Video List and Detailed Parameters
-| Video Filename                | Testing wavelength | Exposure Time                                                                 | Number of Frames                                                                 |
-|-------------------------------|--------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| `Visualization_1_405nm.mp4` | 405nm        | 100ms | 400 | 
-| `Visualization_2_635nm.mp4`     | 635nm | 100ms | 400 |
-| `Visualization_3_850nm.mp4`    | 850nm | 200ms | 200 |
-- Applied camera parameter: Baumer, VCXU-53C, 2592 × 2048 px, pixel size: 4.8 × 4.8 µm |
+| Video Filename                | Testing Wavelength | Exposure Time | Number of Frames | Video Description |
+|-------------------------------|--------------------|---------------|------------------|-------------------|
+| `Visualization_1_405nm.mp4`   | 405nm (UV)         | 100ms         | 400              | Laser pointing visualization at UV wavelength (405nm) |
+| `Visualization_2_635nm.mp4`   | 635nm (Visible)    | 100ms         | 400              | Laser pointing visualization at visible wavelength (635nm) |
+| `Visualization_3_850nm.mp4`   | 850nm (NIR)        | 200ms         | 200              | Laser pointing visualization at NIR wavelength (850nm) |
+
+## Camera Specifications
+- Model: Baumer VCXU-53C
+- Resolution: 2592 × 2048 px
+- Pixel Size: 4.8 × 4.8 µm
 
 ## Video Acquisition and Usage Instructions
 ### 1. Local Download
