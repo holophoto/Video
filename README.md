@@ -16,9 +16,3 @@ This repository stores the visualization video resources corresponding to the ar
 - Resolution: 2592 × 2048 px
 - Pixel Size: 4.8 × 4.8 µm
 
-## Video Acquisition and Usage Instructions
-### 1. Local Download
-- Click on the video file directly and select the `Download` button to save it to your local device.
-- Batch Download: Clone this repository to get all videos (Recommended)
-  ```bash
-  git clone https://github.com/holophoto/video.git
