@@ -5,12 +5,12 @@
 This repository stores the visualization video resources corresponding to the article **[Dielectric elastomer-based laser pointing control system for UV to NIR laser]**. These videos are designed to intuitively present key content such as core data trends, algorithm operation processes, and experimental result comparisons in the research. They assist readers in understanding the visualization analysis logic and conclusions presented in the article.
 
 ## Video List and Detailed Parameters
-| Video Filename                | Testing wavelength | Exposure Time                                                                 | Number of Frames                                                                 | Viewing Recommendations                          |
-|-------------------------------|--------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------|
-| `Visualization_1_405nm.mp4` | 405nm        | 100ms | 400 | Refer to Figure 3 - 2 in the article and focus on the peak change at 1:15 |
-| `Visualization_2_635nm.mp4`     | 635nm | 100ms | 400 | Watch synchronously with the algorithm pseudocode (Listing 4 - 1) in the article |
-| `Visualization_3_850nm.mp4`    | 850nm | 200ms | 200 | Focus on the differences in accuracy indicators among the 5 schemes at 03:02 |
-- Resolution: 2560×1440 (2K)<br>- Frame Rate: 30fps<br>- Duration: 03:58<br>- Encoding: H.265<br>- Audio: None | It is recommended to watch in full - screen mode for a clear view of model details |
+| Video Filename                | Testing wavelength | Exposure Time                                                                 | Number of Frames                                                                 |
+|-------------------------------|--------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| `Visualization_1_405nm.mp4` | 405nm        | 100ms | 400 | 
+| `Visualization_2_635nm.mp4`     | 635nm | 100ms | 400 |
+| `Visualization_3_850nm.mp4`    | 850nm | 200ms | 200 |
+- Applied camera parameter: Baumer, VCXU-53C, 2592 × 2048 px, pixel size: 4.8 × 4.8 µm |
 
 ## Video Acquisition and Usage Instructions
 ### 1. Local Download
